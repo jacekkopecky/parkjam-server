@@ -3,6 +3,8 @@ ParkJam back-end server and admin console
 
 Web site: http://parking.kmi.open.ac.uk 
 
+Also see the ParkJam app GitHub project: https://github.com/jacekkopecky/parkjam
+
 Copyright: 
  - 2012-2013 Jacek Kopecky (jacek@jacek.cz) 
  - 2012-2013 Knowledge Media Institute, The Open University, Milton Keynes, UK
