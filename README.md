@@ -4,6 +4,7 @@ ParkJam back-end server and admin console
 Web site: http://parking.kmi.open.ac.uk 
 
 Also see the ParkJam app GitHub project: https://github.com/jacekkopecky/parkjam
+and the website project: https://github.com/jacekkopecky/parkjam-www
 
 Copyright: 
  - 2012-2013 Jacek Kopecky (jacek@jacek.cz) 
