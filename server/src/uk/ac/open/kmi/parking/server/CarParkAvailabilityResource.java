@@ -47,7 +47,7 @@ public class CarParkAvailabilityResource {
     @GET
     @Produces("text/turtle")
     public Response query() {
-        // test at http://localhost:8080/ParkMe-server/parks/1/avail or for now  http://localhost:8080/ParkMe-server/parks/way29869553/avail
+        // test at http://localhost:8080/ParkJam-server/parks/1/avail or for now  http://localhost:8080/ParkJam-server/parks/way29869553/avail
         try {
             final MyRepositoryModel repomodel = Config.openRepositoryModel(null);
 

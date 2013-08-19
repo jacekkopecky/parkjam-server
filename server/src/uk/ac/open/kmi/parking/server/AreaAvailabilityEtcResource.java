@@ -59,7 +59,7 @@ public class AreaAvailabilityEtcResource {
         final boolean availabilityOnly = this.requestedTypes.contains("availonly");
 
         // todo include rdf:type parking:UnverifiedInstance in the returned data? (not necessary if only details view shows this information)
-        // test at http://localhost:8080/ParkMe-server/availetc?late6min=52000000&lone6min=0&late6max=52100000&lone6max=100000
+        // test at http://localhost:8080/ParkJam-server/availetc?late6min=52000000&lone6min=0&late6max=52100000&lone6max=100000
         try {
             final MyRepositoryModel repomodel = Config.openRepositoryModel(null);
             final StringBuilder sb = new StringBuilder("PREFIX omgeo: <" + Ontology.OMGEO_NS + ">\n");
